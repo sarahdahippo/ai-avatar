@@ -1,5 +1,5 @@
 # AI Avatar
-A web-based application that uses a custom-trained Stable Diffusion model to generate an AI avatar of me based on your prompt. This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It is deployed with Railway at [sarahdahippo-ai-avatar.up.railway.app](sarahdahippo-ai-avatar.up.railway.app).
+A web-based application that uses a custom-trained Stable Diffusion model to generate an AI avatar of me based on your prompt. This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It is deployed with Railway at [https://sarahdahippo-ai-avatar.up.railway.app/](https://sarahdahippo-ai-avatar.up.railway.app/).
 
 ## What's Next
 - Provide a few buttons representing preset prompts that auto populate the prompt input field
